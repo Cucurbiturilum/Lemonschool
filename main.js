@@ -36,7 +36,7 @@ let year = prompt("Enter your birth year");
 if(year % 4 > 0){
     alert(365)
 }
-else if (year % 4 === 0 && year % 400 > 0){
+else if (year % 400 > 0){
     alert(365);
 }
 else {
