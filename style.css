@@ -1,0 +1,23 @@
+.card-deck .card {
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 0 20px #d0d0d0;
+  overflow: hidden;
+}
+.card-deck .card .card-header {
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  border-bottom: none;
+}
+.card-deck .card .card-body .card-title {
+  text-align: center;
+  color: #431c00;
+}
+.card-deck .card .card-footer {
+  background-color: #fff;
+}
+
+/*# sourceMappingURL=style.css.map */
